@@ -1,0 +1,8 @@
+# Track ONLY the admin/ folder in the repo.
+# Everything else stays local (on the Desktop) but is not pushed to GitHub.
+/*
+!/.gitignore
+!/README.md
+!/CIS-W11-v5.0.0-Intune/
+/CIS-W11-v5.0.0-Intune/*
+!/CIS-W11-v5.0.0-Intune/admin/
